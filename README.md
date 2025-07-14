@@ -78,4 +78,4 @@ db.json             # Mock database (json-server)
 
 ---
 
-If you need more details about any file or function, feel
+If you need more details about any file or function, feel free to ask!
